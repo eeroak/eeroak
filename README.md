@@ -4,7 +4,7 @@ Studying IT, focusing on **AI, ML & Data engineering.**
 
 
 ## Skills
-Python, SQL, JavaScript, Data frameworks-, warehouses & pipelines, Linux, Machine Learning, 
+Python, SQL, JavaScript, Data frameworks-, warehouses & pipelines, Linux, Machine Learning
 
 
 ## Links
