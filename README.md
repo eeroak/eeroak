@@ -1,10 +1,11 @@
 ## About Me
 B. Eng. student @ TUAS, Finland.  
-Studying IT, focusing on **AI, ML & Data engineering.**
+Studying IT, majoring in **AI, ML & Data engineering.**  
+Passionate about Data Science, Automation & Robotics
 
 
 ## Skills
-Python, SQL, C#, Linux, Machine Learning, Azure, .NET, Data frameworks-, warehouses & pipelines
+Python, SQL, C#, HTML, CSS, TypeScript, Linux, Machine Learning, Azure, AWS, .NET, Data frameworks-, warehouses & pipelines
 
 
 ## Links
