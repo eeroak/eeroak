@@ -1,8 +1,11 @@
 ## About Me
 B. Eng. student @ TUAS, Finland.  
 Studying IT, majoring in **AI, ML & Data engineering.**  
-Passionate about Data Science, Automation & Robotics
-
+Passionate about Data Science, Automation & Robotics.  
+  
+## About My Git
+Here you can find some of my school projects, personal passion projects, and data analysis notebooks that i do as a hobby.  
+I pretty much track every piece of code i write, but most of my repositories are private for security reasons, or i'm not proud enough of my work to show them publicly.  
 
 ## Skills
 Python, SQL, C#, HTML, CSS, TypeScript, Linux, Machine Learning, Azure, AWS, .NET, Data frameworks-, warehouses & pipelines
