@@ -1,7 +1,7 @@
 ## About Me 🙋‍♂️
-B. Eng. student @ TUAS, Finland.  
-Studying IT, majoring in **AI, ML & Data engineering.**  
-Passionate about Data Science, Automation & Robotics.  
+Artificial Intelligence & Data Engineer from Finland.   
+Passionate about all things Data, Automation & Robotics.  
+Homelab nerd.  
   
 ## ⚪️⭕ About My Git ⭕⚪️
 Here you can find some of my school projects, personal passion projects, and data analysis notebooks that i do as a hobby.  
